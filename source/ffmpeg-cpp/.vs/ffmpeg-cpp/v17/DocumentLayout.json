@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Obruta\\POLAR\\ThirdParty\\ffmpeg-cpp\\source\\ffmpeg-cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BABFD64D-9BF1-4328-B977-24BF81800620}|ffmpeg-cpp\\ffmpeg-cpp.vcxproj|S:\\Obruta\\POLAR\\ThirdParty\\ffmpeg-cpp\\source\\ffmpeg-cpp\\ffmpeg-cpp\\Codecs\\AudioCodec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BABFD64D-9BF1-4328-B977-24BF81800620}|ffmpeg-cpp\\ffmpeg-cpp.vcxproj|solutionrelative:ffmpeg-cpp\\Codecs\\AudioCodec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioCodec.cpp",
+              "DocumentMoniker": "S:\\Obruta\\POLAR\\ThirdParty\\ffmpeg-cpp\\source\\ffmpeg-cpp\\ffmpeg-cpp\\Codecs\\AudioCodec.cpp",
+              "RelativeDocumentMoniker": "ffmpeg-cpp\\Codecs\\AudioCodec.cpp",
+              "ToolTip": "S:\\Obruta\\POLAR\\ThirdParty\\ffmpeg-cpp\\source\\ffmpeg-cpp\\ffmpeg-cpp\\Codecs\\AudioCodec.cpp",
+              "RelativeToolTip": "ffmpeg-cpp\\Codecs\\AudioCodec.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-19T18:39:16.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
